@@ -12,13 +12,14 @@ import org.jsoup.nodes.Document;
  * @author saba  xxcv
  */
 public class Senter {
+    
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        System.err.println("");
         Document doc;
     }
     
