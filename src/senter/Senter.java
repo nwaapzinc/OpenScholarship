@@ -20,6 +20,9 @@ public class Senter {
     public static void main(String[] args) {
         // TODO code application logic here
         System.err.println("my name");
+        for (int i = 0; i < 10; i++) {
+            
+        }
         Document doc;
     }
     
