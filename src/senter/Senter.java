@@ -9,7 +9,7 @@ import org.jsoup.nodes.Document;
 
 /**
  *
- * @author saba
+ * @author saba  xxcv
  */
 public class Senter {
 
