@@ -19,7 +19,7 @@ public class Senter {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.err.println("");
+        System.err.println("my name");
         Document doc;
     }
     
