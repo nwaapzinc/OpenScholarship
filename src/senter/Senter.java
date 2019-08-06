@@ -21,7 +21,7 @@ public class Senter {
         // TODO code application logic here
         System.err.println("my name");
         for (int i = 0; i < 10; i++) {
-             System.err.println("dddd");
+             System.err.println("ddddbbbbbbb");
         }
         Document doc;
     }
